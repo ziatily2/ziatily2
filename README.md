@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ilyas Ziat 👋
 
-<!--
-**ziatily2/ziatily2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior / Associate Data Engineer specializing in **Azure, Databricks, and Microsoft Fabric**.
 
-Here are some ideas to get you started:
+I build end-to-end, production-style data platforms using lakehouse architectures,
+incremental ingestion, and analytics-ready data modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+- **Cloud**: Azure (ADF, ADLS Gen2, Synapse)
+- **Lakehouse**: Databricks, Delta Lake, Unity Catalog, Delta Live Tables
+- **Analytics**: Microsoft Fabric, OneLake, Power BI
+- **Big Data**: PySpark, Spark Structured Streaming, Autoloader
+- **Modeling**: Medallion Architecture, SCD Type 1 & 2, Star Schema
+- **DevOps**: Git/GitHub, Azure DevOps, CI/CD
+- **Languages**: Python, SQL
+
+---
+
+## 📌 Featured Projects
+- End-to-End Azure Data Engineering Platform (ADF + Databricks)
+- Streaming Lakehouse with PySpark & DBT (Bronze / Silver / Gold)
+- Azure Data Factory – Enterprise Pipelines
+
+👉 Check my pinned repositories below 👇
+
+---
+
+## 🎯 Currently Looking For
+**Junior / Associate Data Engineer roles**  
+📍 Morocco | France | EU | Remote
+
+📫 Contact: **ziatilyas10@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/ilyas-ziat-data-engineer
